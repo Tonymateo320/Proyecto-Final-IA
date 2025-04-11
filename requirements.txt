@@ -1,0 +1,23 @@
+
+# Interfaz de usuario (Tony Mateo 23-EISN-2-044)
+streamlit==1.28.0
+
+# Captura de páginas web (Tony Mateo 23-EISN-2-044)
+selenium==4.10.0
+webdriver-manager==3.8.6
+beautifulsoup4==4.12.2
+
+# Procesamiento de imágenes (Tony Mateo 23-EISN-2-044)
+Pillow==9.5.0
+opencv-python==4.8.0.74
+numpy==1.24.3
+
+# Deep Learning (Tony Mateo 23-EISN-2-044)
+torch==2.0.1
+torchvision==0.15.2
+easyocr==1.7.0
+transformers==4.30.2
+
+# Utilidades (Tony Mateo 23-EISN-2-044)
+requests==2.31.0
+seaborn==-0.13.2
